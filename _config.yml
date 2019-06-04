@@ -21,10 +21,10 @@ sass:
 
 # Site
 ## You can create a locale setting at _locales and name *.yml
-title: ""
-description: "This is a simple theme for jekyll"
-keywords: "Pithy"
-locale: "zh_CN"
+title: "Blog - Jeffrey Asselin"
+description: "Where I write about data, sports, books, and everything else"
+keywords: "Data Science"
+locale: "en_US"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and baseurl as '/child/'
@@ -59,9 +59,9 @@ rss:
 
 # Author
 author:
-  name: "your name"
+  name: "Jeffrey Asselin"
   avatar: "http://jekyllrb.com/img/logo-2x.png"
-  motto: "your motto"
+  motto: "keep it simple"
 
 # Socials
 ## If you want the social show,place sure the social no comment
@@ -85,11 +85,11 @@ socials:
 #---------------------------------------------------------------
 
 comment:
-  enable: true
+  enable: false
 
 # duoshuo
 duoshuo:
-  enable: true
+  enable: false
   short_name: "your duoshuo short_name"
 
 # disqus
@@ -101,14 +101,14 @@ disqus:
 # Site share setting
 #---------------------------------------------------------------
 duoshuo_share:
-    enable: true
+    enable: false
 
 #---------------------------------------------------------------
 # Site analysis setting
 #---------------------------------------------------------------
 # Baidu analysis
 baidu_analysis:
-  enable: true
+  enable: false
   token: "your baidu analysis token"
 
 # Google analysis
