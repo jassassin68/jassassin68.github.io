@@ -40,7 +40,7 @@ paginate_path: "/page:num/"
 
 
 # Writing
-highlighter: 'pygments'
+highlighter: 'rouge'
 kramdown:
   input:  GFM
   enable_coderay: true
@@ -48,9 +48,9 @@ kramdown:
     coderay_line_numbers:  nil
 
 # RSS
-rss:
-  path: "/feed.xml"
-  icon: "rss"
+#rss:
+#  path: "/feed.xml"
+#  icon: "rss"
 
 
 #---------------------------------------------------------------
@@ -67,15 +67,15 @@ author:
 ## If you want the social show,place sure the social no comment
 ## The socials icon base font-awesome,you can learn more on http://fontawesome.io/icons/
 socials:
-    - name: "weibo"
-      url: "http://www.weibo.com/usename/"
-      icon: "weibo"
+#    - name: "weibo"
+#      url: "http://www.weibo.com/usename/"
+#      icon: "weibo"
     - name: "github"
-      url: "https://github.com/usename"
+      url: "https://github.com/jassassin68"
       icon: "github"
-    - name: "facebook"
-      url: "https://www.facebook.com/usename"
-      icon: "facebook"
+#    - name: "facebook"
+#      url: "https://www.facebook.com/usename"
+#      icon: "facebook"
 
 
 
